@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Chedric20
+/src/backend/database.py      @Chedric20
+/src/backend/routers/auth.py  @Chedric20
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/                  @Chedric20
